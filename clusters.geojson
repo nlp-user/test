@@ -1,0 +1,147 @@
+{
+    "features": [
+    {
+        "geometry":
+        {
+            "coordinates": [8.698396, 50.446444],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "1",
+            "title": "method of manufacturing semiconductor device including insulated gate bipolar transistor and diode"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.96628, 50.474336],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "1",
+            "title": "power transistor structure and method for producing the same"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.777427, 50.468613],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "1",
+            "title": "power semiconductor device"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.760291, 50.475445],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "2",
+            "title": "insulated gate bipolar transistor and manufacturing method thereof"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.937248, 50.520601],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "2",
+            "title": "multi-layer semiconductor structure and manufacturing method thereof"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [7.122576, 50.58295],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "2",
+            "title": "thyristor"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.761887, 50.503481],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "3",
+            "title": "high breakdown voltage semiconductor device"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.874235, 50.550644],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "3",
+            "title": "power semiconductor device"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.882069, 50.568635],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "3",
+            "title": "method of minimizing field stop insulated gate bipolar transistor ( igbt ) buffer and emitter charge variation"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.89814, 50.591334],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "3",
+            "title": "semiconductor device"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry":
+        {
+            "coordinates": [8.901284, 50.610011],
+            "type": "Point"
+        },
+        "properties":
+        {
+            "cluster": "3",
+            "title": "semiconductor device"
+        },
+        "type": "Feature"
+    }],
+    "type": "FeatureCollection"
+}
